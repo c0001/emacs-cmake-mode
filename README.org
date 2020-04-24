@@ -1,0 +1,18 @@
+#+title:  emacs-cmake-mode.el
+#+author: Entropy (bmsac0001@gmail.com)
+
+The major mode for cmake files of [[https://www.gnu.org/software/emacs/][gnu-emacs]].
+
+Extract from [[https://gitlab.kitware.com/cmake/cmake][CMAKE]].
+
+*Brief introduction:*
+
+Provides syntax highlighting and indentation for CMakeLists.txt and
+*.cmake source files.
+
+Add this code to your .emacs file to use the mode:
+
+#+begin_src emacs-lisp :tangle yes
+ (setq load-path (cons (expand-file-name "/dir/with/emacs-cmake-mode") load-path))
+ (require 'cmake-mode)
+#+end_src
