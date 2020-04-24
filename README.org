@@ -1,4 +1,4 @@
-#+title:  emacs-cmake-mode.el
+#+title:  emacs-cmake-mode
 #+author: Entropy (bmsac0001@gmail.com)
 
 The major mode for cmake files of [[https://www.gnu.org/software/emacs/][gnu-emacs]].
