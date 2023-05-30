@@ -3,7 +3,7 @@
 
 The major mode for cmake files of [[https://www.gnu.org/software/emacs/][gnu-emacs]].
 
-Extract from [[https://gitlab.kitware.com/cmake/cmake][CMAKE]].
+Extract from [[https://gitlab.kitware.com/cmake/cmake][CMAKE]]'s [[https://gitlab.kitware.com/cmake/cmake/-/raw/master/Auxiliary/cmake-mode.el][auxiliary]].
 
 *Brief introduction:*
 
